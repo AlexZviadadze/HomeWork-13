@@ -149,4 +149,10 @@
     .user-account{
         margin-top: 30px;
     }
+    .personal-information input{
+        width: 100%;
+    }
+    .personal-information textarea{
+        width: 100%;
+    }
 }
